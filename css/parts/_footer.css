@@ -1,0 +1,12 @@
+.footer{
+    background-color: #E9EAE2;
+    padding: 11px 15px;
+    text-align: center;
+}
+
+.footer-text{
+    font-weight: 500;
+    flex: 12px;
+    line-height: 18px;
+    opacity: 0.4;
+}
